@@ -1,5 +1,5 @@
 # TermsOfService
-TermsOfService
+Terms of service
 1. Overview
 These Terms of Service ("Terms") govern the use of the mobile game service ("Service") provided by Seah ("Company"). By installing or using the Service, you agree to be bound by these Terms. The Service is offered globally, and you must comply with the laws of your country of residence.
 2. Account and Authentication
