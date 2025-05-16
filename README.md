@@ -1,2 +1,2 @@
-# -TermsOfService
+# TermsOfService
 TermsOfService
