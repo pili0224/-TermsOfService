@@ -29,15 +29,15 @@ Violations may result in restrictions, data resets, or account bans at the Compa
 All content included in the Service (games, characters, music, graphics, etc.) is the property of the Company or its licensors. Unauthorized reproduction, distribution, or modification is strictly prohibited.
 
 
-6. Child Protection
+7. Child Protection
 The Company’s games are designed to be safe and non-violent for children. However, minors must obtain consent from a legal guardian to use the Service. Guardians are responsible for monitoring in-app purchases and ad exposure.
 
 
-7. Changes and Termination of Service
+8. Changes and Termination of Service
 The Company reserves the right to modify or discontinue the Service at any time without prior notice for improvement or operational reasons. Refunds or compensation for paid content will be handled according to applicable laws.
 
 
-8. Limitation of Liability
+9. Limitation of Liability
 The Company is not liable for:
 - Damages caused by user negligence
 - Errors or policy changes by third-party platforms (e.g., Google, Unity)
