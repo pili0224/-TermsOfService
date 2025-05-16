@@ -22,7 +22,6 @@ You agree not to engage in any of the following:
 - Hacking or illegally modifying the game
 - Using automation tools, macros, bots
 - Any behavior that disrupts the operation of the Service
-
 Violations may result in restrictions, data resets, or account bans at the Company’s discretion.
 
 
