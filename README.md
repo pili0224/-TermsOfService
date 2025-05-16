@@ -13,11 +13,10 @@ The Company does not require a separate sign-up process. Instead, user authentic
 
 3. In-App Purchases and Advertisements
 Some content in the Service is available through in-app purchases. All payments are processed by Google Play or Unity, and are subject to each platform’s payment and refund policies.
-
 The Service displays third-party advertisements, including Google AdMob and Unity Ads. Ads are presented in a manner that does not disrupt the user experience. Any data collected via these ads is handled under the privacy policies of the respective providers.
 
 
-4. User Responsibilities and Prohibited Actions
+5. User Responsibilities and Prohibited Actions
 You agree not to engage in any of the following:
 - Posting content that infringes on others’ rights or causes discomfort
 - Hacking or illegally modifying the game
