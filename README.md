@@ -16,7 +16,7 @@ Some content in the Service is available through in-app purchases. All payments 
 The Service displays third-party advertisements, including Google AdMob and Unity Ads. Ads are presented in a manner that does not disrupt the user experience. Any data collected via these ads is handled under the privacy policies of the respective providers.
 
 
-5. User Responsibilities and Prohibited Actions
+4. User Responsibilities and Prohibited Actions
 You agree not to engage in any of the following:
 - Posting content that infringes on others’ rights or causes discomfort
 - Hacking or illegally modifying the game
