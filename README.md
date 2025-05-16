@@ -18,10 +18,10 @@ The Service displays third-party advertisements, including Google AdMob and Unit
 
 4. User Responsibilities and Prohibited Actions
 You agree not to engage in any of the following:
-- Posting content that infringes on others’ rights or causes discomfort
-- Hacking or illegally modifying the game
-- Using automation tools, macros, bots
-- Any behavior that disrupts the operation of the Service
+* Posting content that infringes on others’ rights or causes discomfort
+* Hacking or illegally modifying the game
+* Using automation tools, macros, bots
+* Any behavior that disrupts the operation of the Service
 Violations may result in restrictions, data resets, or account bans at the Company’s discretion.
 
 
